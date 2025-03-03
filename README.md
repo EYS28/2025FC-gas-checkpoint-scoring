@@ -36,7 +36,7 @@ graph TD;
 
 ③-２：班毎の合計スコアをまとめ、「結果集計用スプレッドシート」へシートを生成。
 
-## 📂 GASスクリプト構成
+## 📂 GASスクリプト(QuizPointResults.js)の構成
 - `collectCheckpointResults.js` - 各チェックポイントのスコアを取得・集計
 - `summarizeTotalScores.js` - 各班の合計得点を計算し、最終結果を記録
 
